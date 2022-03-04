@@ -173,9 +173,3 @@ const animate = () => {
     requestAnimationFrame(animate);
 }
 animate();
-
-
-
-
-
-/* !!! (3) ___ !!! */
